@@ -1,0 +1,29 @@
+body {
+	border: solid 20px #75779c;
+	margin: 5px 25%;
+	padding: 10px 10px;
+	width: 550px;
+}
+
+h4 {
+	color: #484da3;
+	text-transform: uppercase;
+	/*letter-spacing: 7px;*/
+	/*rem - relative to root element wheras
+	rm - relative to parent element*/
+	letter-spacing: 0.2rem;
+}
+
+h2 {
+	color: #1e2269;
+	font-family: Aerial;
+}
+
+#first-article {
+	border-bottom: solid 1px #b1b3c9;
+}
+
+.left-border {
+	border-left: 7px solid #75779c;
+	padding-left: 10px
+}
